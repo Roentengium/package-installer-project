@@ -6,7 +6,7 @@ The Universal Package Installer works by finding your package manager, installin
 
 ## DISCLAIMER
 
-Much of the codebase was written by Claude and Gemini. It is not our intention to pollute the open-source community with slop however; this was merely a project for the AI unit in our college python script. It is GPL licensed, you have the write to fork, fix, comment, and de-sloppify the code if you find this to be an interesting/useful tool.
+Much of the codebase was written by Claude and Gemini. It is not our intention to pollute the open-source community with slop however; this was merely a project for the AI unit in our college python script. It is GPL licensed, you have the right to fork, fix, comment, and de-sloppify the code if you find this to be an interesting/useful tool.
 
 ## Installation
 
